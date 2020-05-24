@@ -1,0 +1,11 @@
+.price-detail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.col-car {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
